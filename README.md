@@ -3,7 +3,7 @@
 **This repository is submission to Unscript hackthon 2022. Domain of AI/ML and Skin Type Recognition problem statement.** <br>
 
 *The Web App has access to only those who are authorized with this repository* <br>
-**Live Web App: [Skin Type Recognition](https://share.streamlit.io/hrushi11/uns_50_convo-neurons/main/app.py#skin-type-recognition)**
+**Live Web App: [Skin Type Recognition](https://share.streamlit.io/hrushi11/real-time-skin-type-detection/main/app.py)**
 
 ![GIF](https://github.com/Hrushi11/UNS_50_Convo-Neurons/blob/main/assets/skin-detection.gif?raw=true)
 
